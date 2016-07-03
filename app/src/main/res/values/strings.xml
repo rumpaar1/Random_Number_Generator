@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="min">Minimum</string>
+    <string name="max">Maximum</string>
+    <string name="submit">Generate Random Number</string>
+    <string name="random_number_return_title">Random Number</string>
+    <string name="random_number_return_dismiss">OK</string>
+    <string name="random_number_return_message_front">The randomly generated number is</string>
+    <string name="random_number_return_message_back">.</string>
+    <string name="random_number_error_title">Invalid Input</string>
+    <string name="random_number_error_dismiss">OK</string>
+    <string name="random_number_error_message">The entered numbers are not valid.</string>
+
+</resources>
